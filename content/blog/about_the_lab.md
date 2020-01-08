@@ -4,6 +4,7 @@
   "author": "Dillon Kearns",
   "title": "About the Lab",
   "description": "How is it that we can process the same information in different ways at different times?",
+  "image": "/images/article-covers/hello.jpg",
   "published": "2020-01-01",
 }
 ---
